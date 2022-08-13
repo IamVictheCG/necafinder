@@ -1,0 +1,127 @@
+[
+{
+  "id": 1,
+  "name": " Ajibade Hamidat Abisola",
+  "username": "Hameedarh",
+  "image": "Pictures/Meedarh.jpeg",
+  "skills": "HTML,CSS,Javascript.",
+  "github_link": "https://github.com/Hameedarh",
+  "img":"1.jpg",
+  "about": ""
+},
+  
+  {
+  "id": 2,
+  "name": "Abdulwasiu Saliman",
+  "username" :"Oladimeji-Dev",
+  "image":"Pictures/Wasiu.jpeg",
+  "skills": "Javascript, PHP, Phython, React.",
+  "github_link": "https://github.com/Oladimeji-Dev",
+  "img":"2.jpg",
+  "about": ""
+},
+  
+{
+  "id": 4,
+  "name": "Oluniyi Israel",
+  "username": "Oluniyisrael",
+  "image":"Pictures/Oluniyi-Israel.jpeg",
+  "skills": "HTML, CSS and Javascript",
+  "github_link": "https://github.com/Oluniyisrael",
+  "img":"4.jpg",
+  "about": ""
+},
+  
+{
+  "id": 5,
+  "name": "Damos Muelji", 
+  "username":"muelji",
+  "image":"Pictures/Damos.jpeg",
+  "skills": "HTML, CSS and Javascript",
+  "github_link": "https://github.com/muelji",
+  "img":"5.jpg",
+  "about": ""
+},
+  
+{
+  "id": 6,
+  "name": "Maryam Suleiman",
+  "username":"MaryamSuleiman",
+  "image":"Pictures/Maryam.jpeg",
+  "skills": "HTML, Javascript and React ",
+  "github_link": "https://github.com/MaryamSuleiman",
+  "img":"6.jpg",
+  "about": ""
+},
+  
+{
+  "id": 7,
+  "name": "Rabo Abdulsamad",
+  "username":"Sammad",
+  "image":"Pictures/contact-removebg-preview.png",
+  "skills": "HTML, CSS and Javascript",
+  "github_link": "https://github.com/",
+  "img":"7.jpg",
+  "about": ""
+},
+  
+{
+  "id": 8,
+  "name": "Momoh Abdulrasheed",
+  "username":"momohrasheed06",
+  "image":"Pictures/Rasheed.jpeg",
+  "skills": "HTML, CSS, Javascript, Phython and React.",
+  "github_link": "https://github.com/momohrasheed06",
+  "img":"8.jpg",
+  "about": ""
+},
+  
+{  
+  "id": 10,
+  "name": "Lazarus B. Umeh",
+  "username":"lazumeh",
+  "image":"Pictures/contact-removebg-preview.png",
+  "skills": "HTML, CSS and Javascript",
+  "github_link": "https://github.com/lazumeh",
+  "img":"10.jpg",
+  "about": ""
+},
+  
+{
+  "id": 11,
+  "name": "Daubry Martins",
+  "username":"Daumatt",
+  "image":"Pictures/Mr-martins.jpeg",
+  "skills": "HTML, CSS and Javascript",
+  "github_link": "https://github.com/Daumatt",
+  "img":"11.jpg",
+  "about": ""
+},
+
+
+  
+{
+  "id": 13,
+  "name": "Aluya Ebenezer",
+  "username":"Ebenezeraluya",
+  "image":"Pictures/Ebenezer.jpeg",
+  "skills": "HTML, CSS , React and Javascript",
+  "github_link": "https://github.com/Ebenezeraluya",
+  "img":"13.jpg",
+  "about": ""
+},
+  
+
+  
+{
+  "id": 15,
+  "name": "Harrison ",
+  "username":"Harry654",
+  "image":"Pictures/Somtoo.jpeg",
+  "skills": "React,React Native",
+  "github_link": "https://github.com/Harry654",
+  "img":"15.jpg",
+  "about": ""
+}
+
+]

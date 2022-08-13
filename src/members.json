@@ -1,0 +1,55 @@
+[
+    
+    {
+        "id": 1,
+        "name": "Fiki Mayomikun",
+        "username": "Fiki-josh",
+        "image":"Pictures/lumi.jpeg",
+        "skills": "React, UI/UX Designer",
+        "github_link": "https://github.com/Fiki-josh",
+        "img":"15.jpg",
+        "about": ""
+    },
+    {
+        "id": 2,
+        "name": "Okechukwu Victor",
+        "username":"IamVICtheCG",
+        "image":"Pictures/victor.JPG",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/IamVICtheCG",
+        "img":"14.jpg",
+        "about": ""
+      },
+
+    {
+        "id": 3,
+        "name": "Daniel Uchenna Achilihu",
+        "username": "Achilihudaniel07",
+        "image":"Pictures/Daniel.JPG",
+        "skills": "Javascript, HTML,CSS, React.",
+        "github_link": "https://github.com/Achilihudaniel07",
+        "img":"3.jpg",
+        "about": ""
+    },
+  
+    {
+        "id": 4,
+        "name": "Alexander Gabrielle Khoinom",
+        "username":"Gabbie99",
+        "image":"Pictures/Gabby.jpeg",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/Gabbie99",
+        "about": ""
+    },
+
+    {
+        "id": 9,
+        "name": "Olaniyi Israel Olufunmi",
+        "username":"Olufunmi",
+        "image":"Pictures/Olaniyi-Israel.jpeg",
+        "skills": "HTML and Javascript",
+        "github_link": "https://github.com/",
+        "img":"9.jpg",
+        "about": ""
+      }
+  ]

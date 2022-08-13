@@ -1,0 +1,44 @@
+.div2 {
+    border: 40px solid pink;
+    /* border-style: groove; */
+    /* margin-bottom: 27px; */
+    margin-top: 27px;
+    background-color: rgb(18, 158, 223);
+    width: 550px;
+    height: 600px;
+    border-radius: 12px;
+}
+
+.Imagem img {
+    border-radius: 62px;
+    width: 320px;
+    height: 350px;  
+    border: 0px solid gold;
+    border-style: groove;
+}
+
+.Imagemm{
+    border: 16px solid pink;
+    border-radius: 62px;
+    width: 320px;
+    height: 350px;    
+}
+.Image img {
+    border: 0px solid pink;
+    border-radius: 62px;
+    width: 320px;
+    height: 350px;  
+}
+
+img{
+    margin-top: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    
+}
+a:hover{
+    text-decoration: underline;   
+}
